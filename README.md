@@ -37,10 +37,8 @@ AI-Resume-Screening-System/
 
 ### 1. Clone or Download the Project
 
-```
-git clone <your-repo-link>
+git clone https://github.com/vijaydevverse/AI-Resume-Screening-System.git
 cd AI-Resume-Screening-System
-```
 
 ---
 
